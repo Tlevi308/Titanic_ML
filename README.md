@@ -1,5 +1,5 @@
 # Titanic ML
-Survive or not survive the Titanic disaster prediction
+Survive or not survive the Titanic disaster 
 
 # The general dataset in this repo is as follows:
 1.train.csv : training data
